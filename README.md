@@ -72,7 +72,7 @@ Insight Mirror recreates these **core workflows end-to-end**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/insight-mirror.git
+git clone https://github.com/NaikTarunsaiKishor/Clueso-Clone
 
 # Navigate to project folder
 cd insight-mirror-main
